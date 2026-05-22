@@ -6,7 +6,7 @@
 - 🎵 **Guitar, Bass and Theorbo Player Since 1990** 🎸
 - 🎲 **Dungeon Master Since 1990** 🐉
 - 🎬 **Cinephile & Series Addict** 🎞️
-- ☕ **Powered by Coffee** ☕ *(Life begins after the first espresso)*
+- ☕ **Powered by Coffee** ☕ *(Day begins after the first espresso)*
 
 ---
 
@@ -15,11 +15,6 @@
 - [ ] 📖 [Red Hat Enterprise Linux 10]
 - [ ] 📖 [Ansible Automation Platform] - *Coming soon*
 - [ ] 📖 [OpenShift Container Platform] - *Coming soon*
-
----
-
-### 🛠️ Tech Stack & Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightshifter75&layout=compact&theme=vision-glow)
 
 ---
 *"Digital by choice, Musician by soul, Caffeine by necessity."*
